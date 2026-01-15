@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[co]
+
+# Ambiente Virtual
+.venv/
+venv/
+pip-log.txt
+
+# Configurações/Segredos
+.env
+
+# Arquivos de Editor (VS Code)
+.vscode/
+
+fato_venda.parquet
